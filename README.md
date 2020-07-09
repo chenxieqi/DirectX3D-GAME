@@ -2,4 +2,4 @@
 入学二年目DirectX3Dゲーム作品
 
 DEMO
-YouTube：https://www.youtube.com/watch?v=NkNxFf11hJs
+YouTube：https://youtu.be/3q8GN6C-DOQ
